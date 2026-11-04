@@ -1,0 +1,4 @@
+interface:
+  display_name: "MGA-Designer"
+  short_description: "Design editable medical graphical abstracts in Illustrator"
+  default_prompt: "Use $mga-designer to analyze my manuscript, review published examples and show me a design proposal for approval before drawing in Illustrator."

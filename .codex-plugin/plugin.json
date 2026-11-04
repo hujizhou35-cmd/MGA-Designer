@@ -1,0 +1,23 @@
+{
+  "name": "mga-designer",
+  "version": "1.0.0",
+  "description": "Plan a medical graphical abstract from a manuscript and draw editable vectors in Adobe Illustrator.",
+  "author": {
+    "name": "Jizhou Hu",
+    "url": "https://github.com/hujizhou35-cmd"
+  },
+  "homepage": "https://github.com/hujizhou35-cmd/MGA-Designer",
+  "repository": "https://github.com/hujizhou35-cmd/MGA-Designer",
+  "license": "MIT",
+  "keywords": ["graphical-abstract", "medical-research", "scientific-illustration", "illustrator"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "MGA-Designer",
+    "shortDescription": "Design editable medical graphical abstracts.",
+    "longDescription": "Match the study design to published visual references, approve a figure plan, then draw and inspect editable Illustrator artwork.",
+    "developerName": "Jizhou Hu",
+    "category": "Productivity",
+    "capabilities": ["Research", "Write"],
+    "defaultPrompt": "Use $mga-designer to plan an editable graphical abstract for my manuscript."
+  }
+}

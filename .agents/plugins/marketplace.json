@@ -1,0 +1,11 @@
+{
+  "name": "mga-designer-local",
+  "interface": {"displayName": "MGA-Designer"},
+  "plugins": [
+    {
+      "name": "mga-designer",
+      "source": {"source": "local", "path": "./"},
+      "category": "Productivity"
+    }
+  ]
+}
